@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow%20test%202/mlruns/0/eb95779f20ae49aa8c1ed4f772ca8e4e/artifacts
+end_time: 1717733988176
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb95779f20ae49aa8c1ed4f772ca8e4e
+run_name: abrasive-seal-709
+run_uuid: eb95779f20ae49aa8c1ed4f772ca8e4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717733891623
+status: 3
+tags: []
+user_id: Admin
