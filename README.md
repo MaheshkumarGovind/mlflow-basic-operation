@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mlflow-basic-operation
 
 
@@ -24,3 +25,6 @@ export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9353c5b10041d5c8edbcef0
 
 '''
 
+=======
+# mlflow-basic-operation
+>>>>>>> 79aa0f554940f6eb3359ff285d9769bebb0c29b1
